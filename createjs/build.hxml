@@ -1,0 +1,6 @@
+-cp src
+-main src.Main
+-js html/files/js/main.js
+-lib createjs
+-lib tweenx
+-cp ../../../../haxe/
